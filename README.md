@@ -1,3 +1,4 @@
-# waleed
-# mokdad
-## we have
+# learning pc
+' wepsit
+* manual
++ forget
